@@ -1,0 +1,28 @@
+{
+  "name": "EstudoMVC",
+  "version": "1.0.0",
+  "description": "Anotações dos estudos sobre MVC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasdksan/EstudoMVC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasdksan/EstudoMVC/issues"
+  },
+  "homepage": "https://github.com/lucasdksan/EstudoMVC#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
