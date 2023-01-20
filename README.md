@@ -14,7 +14,7 @@ Quando falamos sobre o MVC, cada uma das camadas apresenta geralmente as seguint
 
 * MODAL: A responsabilidade dos models é representar o negócio. Também é responsável pelo acesso e manipulação dos dados na sua aplicação.
 
--> Conectar com a fonte dos dados.
+-> Conectar com a fonte dos dados. __
 -> Receber os dados.
 -> Tratar os dados.
 -> Validar os dados.
