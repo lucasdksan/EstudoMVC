@@ -14,18 +14,18 @@ Quando falamos sobre o MVC, cada uma das camadas apresenta geralmente as seguint
 
 * MODAL: A responsabilidade dos models é representar o negócio. Também é responsável pelo acesso e manipulação dos dados na sua aplicação.
 
--> Conectar com a fonte dos dados. __
--> Receber os dados.
--> Tratar os dados.
--> Validar os dados.
+-> Conectar com a fonte dos dados. <br>
+-> Receber os dados. <br>
+-> Tratar os dados. <br>
+-> Validar os dados. <br>
 
 * VIEW: A views são responsáveis pela interface que será apresentada, mostrando as informações do model para o usuário.
 
--> HTML.
--> CSS.
--> JavaScrit.
--> Formulários.
--> Gráficos.
--> Tabelas. 
+-> HTML. <br>
+-> CSS. <br>
+-> JavaScrit. <br>
+-> Formulários. <br>
+-> Gráficos. <br>
+-> Tabelas. <br>
 
 * CONTROLLER: É a camada de controle, responsável por ligar o model e a view, fazendo com que os models possam ser repassados para as views e vice-versa.
